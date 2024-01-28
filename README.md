@@ -28,9 +28,8 @@ pip install Flask transformers googletrans
 1.  Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
+git clone https://github.com/ananyamanjunath/Text-Summarizer.git
+cd Text-Summarizer
 
 ```
 
@@ -42,7 +41,7 @@ python app.py
 
 3.  Open your web browser and go to http://localhost:5000/ to access the Text Summarizer web app.
     
-4.  Choose the language for summarization, enter your text in the provided textarea, submit the form, and view the summarization result.
+4.  Choose the language for summarization, enter your text in the provided text area, submit the form, and view the summarization result.
     
 
 ## Acknowledgments
